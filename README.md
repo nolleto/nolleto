@@ -17,3 +17,4 @@ My name is Felipe Nolleto Nascimento and I'm Frontend developer at [Codeminer 42
 ### Where to find me
 - Twitter: [@FelipeNolleto](https://twitter.com/FelipeNolleto)
 - Linkedin: [Felipe Nolleto Nascimento](https://www.linkedin.com/in/felipe-nolleto-nascimento-a2a23788/)
+- Articles: [Codeminer42’s Blog](https://blog.codeminer42.com/author/felipe-nolleto/)
